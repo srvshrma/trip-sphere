@@ -1,0 +1,5 @@
+com/tripsphere/user/model/User.class
+com/tripsphere/user/UserServiceApplication.class
+com/tripsphere/user/controller/UserController.class
+com/tripsphere/user/service/UserService.class
+com/tripsphere/user/repository/UserRepository.class

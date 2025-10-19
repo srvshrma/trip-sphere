@@ -1,0 +1,6 @@
+com/tripsphere/catalog/controller/CatalogController.class
+com/tripsphere/catalog/CatalogServiceApplication.class
+com/tripsphere/catalog/service/CatalogService.class
+com/tripsphere/catalog/model/Experience.class
+com/tripsphere/catalog/repository/ExperienceRepository.class
+com/tripsphere/catalog/config/RedisConfig.class
